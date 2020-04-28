@@ -1,0 +1,148 @@
+ *{
+    padding:0px;
+    margin:0; 
+    overflow: hidden;
+     
+ }
+    
+    
+  /* html,body 
+ {
+    width: 50%;
+    height: 50%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; } */
+ 
+
+
+
+ /* video{
+    display:relative;
+     z-index:1;
+     height:110%;
+     width:150%;
+     margin:0;
+      padding-left :-110; 
+     opacity:50%;
+     border:0;
+     border-bottom:0;
+     padding-top: 0
+} 
+ .container{ 
+    position:absolute;
+    width:50%;
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    overflow:hidden; */
+/* }
+   .container {
+   position:relative;
+    height:100vh;
+    width:100%;
+   display:flex;
+   align-items:center;
+   justify-content: center;
+   overflow: hidden
+   }; */
+
+/* .container h1{
+    text-align:center;
+    font-size:6rem;
+    z-index: 1;
+    font-family:"Algerian";
+    background-color:white;
+    font:red;
+     */
+
+
+    
+
+/* }
+
+.video{
+    
+    height:100vh;
+    width:100%;
+    margin-left: 100px;
+    display:absolute;
+    top: 50%;
+    left: 50%;
+     z-index: 100; 
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height: 100vh;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    opacity: 75%;
+    position:absolute;
+    top:0;
+    left:0;
+    width:100
+} .
+  */
+.container{
+    position: absolute;
+    width:100%;
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    /* overflow: hidden; */
+   
+}
+/* .section h1{
+
+} */
+video{
+    position:fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    width:100%;
+    display:auto;
+    z-index: -100;
+    opacity:90%
+   
+
+}
+ header h1{
+    text-align:center;
+    font-size:5rem;
+    font-family:"Algerian";
+    padding :0px;
+top:0;
+ }
+
+
+   
+
+#prom{
+    z-index:2;
+    padding:25px;
+     text-align: center; 
+     font-size:3rem;
+     background-color:black;
+    color:white;
+    margin-left:30%;
+    margin-right:30%
+}
+
+ #tbh{
+    z-index:2;
+    padding:25px;
+     text-align:center; 
+     font-size:2.25rem;
+     background-color:blue;
+    color:white;
+    margin-left:2.5%;
+    margin-right:2.5%;
+    opacity:50%
+}
+   
+ 
